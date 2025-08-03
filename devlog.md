@@ -1,5 +1,6 @@
 # thresholds-log
 documenting my video game creation process!
+Copyright © 2025 lystriXgames. All rights reserved.
 
 28/06/2025 -> finished planning stage, created a new unity universal 2d project to use for _Thresholds_!
 
