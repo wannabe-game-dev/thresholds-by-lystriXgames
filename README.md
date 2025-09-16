@@ -12,5 +12,5 @@ Do not copy, distribute, or reuse any part of this project without written permi
 Copyright © 2025 lystriXgames. All rights reserved.
 
 All files in this repository — including source code, text, designs, and media — are protected intellectual property. 
-Unauthorized use, copying, or redistribution is prohibited.
+Unauthorized use, copying, or redistribution is prohibited. If you use ANY part of this repository, lystriXgames (TM)(C)(R) LTD. reserves the right insert you into the video game for an indefinite amount of time (for some of our previous work, see the young adult novel "HELP, I'M STUCK IN A BOOK" by Robert Munsch).  
 
