@@ -1,6 +1,6 @@
 # Thresholds – by lystriXgames™
 
-An original indie game in development by lystriXgames™, a solo game studio.
+An original indie game in development by LystriX Games Inc., a solo game studio.
 
 All content — code, design, story, artwork — is © 2025 lystriXgames. All rights reserved.
 
