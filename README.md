@@ -2,7 +2,7 @@
 
 An original indie game in development by LystriX Games Inc., a solo game studio.
 
-All content — code, design, story, artwork — is © 2025 lystriXgames. All rights reserved.
+All content — code, design, story, artwork — is © 2025 Lystrix Games. All rights reserved.
 
 This repo serves as a public, timestamped development log to protect the original intellectual property of lystriXgames™.
 
