@@ -1,4 +1,4 @@
-# Thresholds – by LytriX Games Inc.
+# Thresholds – by LystriX Games Inc.
 
 An original indie game in development by LystriX Games Inc., a solo game studio.
 
